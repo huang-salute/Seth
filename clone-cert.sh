@@ -1,5 +1,5 @@
 #!/bin/bash
-# Adrian Vollmer, SySS GmbH 2018
+# Adrian Vollmer, SySS GmbH 2017
 # Reference:
 # https://security.stackexchange.com/questions/127095/manually-walking-through-the-signature-validation-of-a-certificate
 
